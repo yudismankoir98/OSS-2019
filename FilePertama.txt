@@ -2,6 +2,6 @@ ini adalah file untuk bahan praktek mata kuliah open source systems, silakan unt
 1. arief fatih naufal G.211.17.0002
 2. andri ilham.s G.211.17.0024
 3. shinta noviana G.211.17.0014
-
+4. aldo ilham f G.211.17.0013
 
 
