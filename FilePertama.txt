@@ -1,4 +1,7 @@
 ini adalah file untuk bahan praktek mata kuliah open source systems, silakan untuk menambahkan isian file ini, di mana saudara harus menuliskan nama dan nim di bawah ini:
 1. arief fatih naufal G.211.17.0002
 2. andri ilham.s G.211.17.0024
+3. shinta noviana G.211.17.0014
+
+
 
